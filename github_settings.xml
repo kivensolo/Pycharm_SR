@@ -1,7 +1,6 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="eb00c0a2-d005-498a-a101-c27f5b3901d8" name="kivensolo">
-      <server host="github.com" />
-    </account>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="kivensolo" />
+    <option name="AUTH_TYPE" value="BASIC" />
   </component>
 </application>

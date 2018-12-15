@@ -1,0 +1,95 @@
+<scheme name="Python copy" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-08-04T16:41:05</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2018.2.0.0</property>
+    <property name="modified">2018-12-12T16:40:52</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="YaHei Consolas Hybrid" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <colors>
+    <option name="LINE_NUMBERS_COLOR" value="" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d02f4d" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="427edc" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="a000" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="d84fc8" />
+      </value>
+    </option>
+    <option name="PY.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="1aa009" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.FUNCTION_CALL">
+      <value />
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="e39b10" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="eb" />
+      </value>
+    </option>
+    <option name="PY.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+      </value>
+    </option>
+    <option name="PY.METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="e29a27" />
+      </value>
+    </option>
+    <option name="PY.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="427edc" />
+      </value>
+    </option>
+    <option name="PY.OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="9300" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value />
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="3cbfad" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

@@ -1,0 +1,121 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (DemoTest)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="F:\PycharmProjects\DemoTest\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files (x86)/Python/Python37/DLLs" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python/Python37/Lib" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python/Python37" type="simple" />
+            <root url="file://F:/PycharmProjects/DemoTest/venv" type="simple" />
+            <root url="file://F:/PycharmProjects/DemoTest/venv/Lib/site-packages" type="simple" />
+            <root url="jar://F:/PycharmProjects/DemoTest/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" type="simple" />
+            <root url="file://F:/PycharmProjects/DemoTest/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/353150535" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="F:/PycharmProjects/DemoTest" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (freegodPy)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="F:\work\freegodPy\venv3\Scripts\python3.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files (x86)/Python/Python37/DLLs" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python/Python37/Lib" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python/Python37" type="simple" />
+            <root url="file://F:/work/freegodPy/venv3" type="simple" />
+            <root url="file://F:/work/freegodPy/venv3/Lib/site-packages" type="simple" />
+            <root url="file://F:/work/freegodPy/venv3/Lib/site-packages/pip-10.0.1-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/567538888" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="F:/work/freegodPy" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (freegodPy)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="F:\work\freegodPy\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://F:/work/freegodPy/venv/Lib" type="simple" />
+            <root url="file://F:/work/freegodPy/venv/Scripts" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python2/Lib" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python2/DLLs" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python2/Lib/lib-tk" type="simple" />
+            <root url="file://F:/work/freegodPy/venv" type="simple" />
+            <root url="file://F:/work/freegodPy/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1247215814" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="F:/work/freegodPy" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (collect_terminal)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="E:\wz\collect_terminal\collect_terminal\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://E:/wz/collect_terminal/collect_terminal/venv/Lib" type="simple" />
+            <root url="file://E:/wz/collect_terminal/collect_terminal/venv/Scripts" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python2/Lib" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python2/DLLs" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python2/Lib/lib-tk" type="simple" />
+            <root url="file://E:/wz/collect_terminal/collect_terminal/venv" type="simple" />
+            <root url="file://E:/wz/collect_terminal/collect_terminal/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-800871123" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="E:/wz/collect_terminal/collect_terminal" />
+    </jdk>
+  </component>
+</application>

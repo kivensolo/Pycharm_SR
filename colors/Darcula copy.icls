@@ -1,4 +1,8 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="modified">2019-01-30T14:36:06</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -981,6 +985,11 @@
         <option name="FOREGROUND" value="e9a918" />
       </value>
     </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="f45b60" />
+      </value>
+    </option>
     <option name="PY.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="4e9f50" />
@@ -996,6 +1005,11 @@
         <option name="FOREGROUND" value="7a9dec" />
       </value>
     </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="fcad2" />
+      </value>
+    </option>
     <option name="PY.PREDEFINED_USAGE">
       <value>
         <option name="FOREGROUND" value="c86ed7" />
@@ -1009,6 +1023,31 @@
     <option name="PY.STRING.U">
       <value>
         <option name="FOREGROUND" value="abc27" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="5195d0" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="4986bb" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="4986bb" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="4986bb" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="4986bb" />
       </value>
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">

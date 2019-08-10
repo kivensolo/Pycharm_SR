@@ -1,6 +1,6 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="modified">2019-02-19T16:38:04</property>
+    <property name="modified">2019-08-10T23:01:18</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
@@ -976,6 +976,12 @@
         <option name="FOREGROUND" value="c9aa16" />
       </value>
     </option>
+    <option name="PY.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="19b43a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PY.FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="e6c07b" />
@@ -999,7 +1005,7 @@
     </option>
     <option name="PY.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="929292" />
+        <option name="FOREGROUND" value="3faa50" />
       </value>
     </option>
     <option name="PY.METHOD_CALL">
@@ -1029,7 +1035,7 @@
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="61aeee" />
       </value>
     </option>
     <option name="PY.STRING.B">
